@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+puts '!!!! TODO: Implement the application !!!!'
+exit 1
